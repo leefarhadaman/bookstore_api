@@ -35,8 +35,8 @@ project-root/
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/leefarhadaman/bookstore_api
+   cd bookstore_api
    ```
 2. **Install dependencies:**
    ```bash
